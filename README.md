@@ -1,6 +1,7 @@
 # TomatoTick 2D Pomodoro Timer PCB only 
 
-![TomatoTick Front Render](image-1.png)
+![TomatoTick Front Render](PCB/TomatoTickPFP.png)
+
 
 ## A PCB in the shape of a Tomato that runs a pomodoro timer of 30 minutes studying and 5 minutes break on repeat. 
 
