@@ -16,7 +16,7 @@
 | [OLED I2C white display](https://core-electronics.com.au/white-i2c-oled-display-ssd1306.html) | Display the timer (price converted from 7.20 AUD) | 1 | $5.03 | $5.03 | [Core Electronics](https://core-electronics.com.au/white-i2c-oled-display-ssd1306.html) |
 | [Resistors, transistor, Pin Sockets](https://www.digikey.com.au/short/vqthtr2h) | Solder onto Breadboard, required passive components | 1 | $1.42 | $1.42 | [digikey](https://www.digikey.com.au/short/vqthtr2h) |
 | **Parts subtotal** | — | — | — | **$12.44** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$12.44** | — |
+| **Tax & shipping** | — | — | — | **$20.00** | — |
+| **Total** | — | — | — | **$32.44** | — |
 
-$17.56 left of the tier's funding.
+**$2.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
