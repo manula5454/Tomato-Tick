@@ -21,7 +21,7 @@
 | [Active Buzzer](https://core-electronics.com.au/active-buzzer-5v.html) | Loud sounds when timer is finished | 1 | $0.27 | $0.27 | [Core Electronics](https://core-electronics.com.au/active-buzzer-5v.html) |
 | [330 Ohm resistors (pck of 20 cheaper)](https://core-electronics.com.au/resistor-330-ohm-1-4-watt-pth-20-pack-thick-leads.html) | For LEDs to control 3.3V | 1 | $1.57 | $1.57 | [Core Electronics](https://core-electronics.com.au/resistor-330-ohm-1-4-watt-pth-20-pack-thick-leads.html) |
 | **Parts subtotal** | — | — | — | **$17.12** | — |
-| **Tax & shipping** | — | — | — | **$4.38** | — |
-| **Total** | — | — | — | **$21.50** | — |
+| **Tax & shipping** | — | — | — | **$4.37** | — |
+| **Total** | — | — | — | **$21.49** | — |
 
-$8.50 left of the tier's funding.
+$8.51 left of the tier's funding.
