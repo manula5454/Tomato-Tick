@@ -7,5 +7,5 @@ Q1,2N3904 transistor,1,NPN transistor for the buzzer,Core Electronics,https://co
 SW2,6mm tactile button,1,Pause and reset button,Core Electronics,https://core-electronics.com.au/mini-push-button-switch.html
 BZ1,5V active buzzer,1,Alert buzzer,Core Electronics,https://core-electronics.com.au/active-buzzer-5v.html
 J1,1x4 pin header,1,OLED connector,Core Electronics,https://core-electronics.com.au/254mm-1x4-pin-straight-female-header.html
-U1,1x7 pin header,1,Microcontroller connector,Core Electronics,https://core-electronics.com.au/0-100-2-54-mm-female-header-1x7-pin-straight.html
+U1,1x7 pin header,2,Microcontroller connector,Core Electronics,https://core-electronics.com.au/0-100-2-54-mm-female-header-1x7-pin-straight.html
 OLED1,White I2C OLED display (SSD1306),1,0.96in display,Core Electronics,https://core-electronics.com.au/white-i2c-oled-display-ssd1306.html
