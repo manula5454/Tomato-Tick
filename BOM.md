@@ -13,10 +13,9 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [XIAO RP2350 (pre-soldered)](https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2350-Pre-Soldered-p-6336.html) | Main Microcontroller of project | 1 | $5.99 | $5.99 | [Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2350-Pre-Soldered-p-6336.html) |
-| [OLED I2C white display](https://core-electronics.com.au/white-i2c-oled-display-ssd1306.html) | Display the timer (price converted from 7.20 AUD) | 1 | $5.04 | $5.04 | [Core Electronics](https://core-electronics.com.au/white-i2c-oled-display-ssd1306.html) |
 | [2N3904 NPN (transistor)](https://core-electronics.com.au/npn-transistor-2n3904.html) | Used for handling Buzzer in PCB | 1 | $0.30 | $0.30 | [Core Electronics](https://core-electronics.com.au/npn-transistor-2n3904.html) |
-| **Parts subtotal** | — | — | — | **$11.33** | — |
+| **Parts subtotal** | — | — | — | **$6.29** | — |
 | **Tax & shipping** | — | — | — | **$4.38** | — |
-| **Total** | — | — | — | **$15.71** | — |
+| **Total** | — | — | — | **$10.67** | — |
 
-$14.29 left of the tier's funding.
+$19.33 left of the tier's funding.
