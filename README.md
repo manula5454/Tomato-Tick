@@ -17,4 +17,4 @@ A witty timer to physically use for study sessions. I usually study 30 minutes o
 
 ## Project status
 
-The PCB designs and renders are finished. Code is still being polished. 
+The PCB, Schematics and Software are Done!!
