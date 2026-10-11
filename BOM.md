@@ -14,9 +14,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [XIAO RP2350 (pre-soldered)](https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2350-Pre-Soldered-p-6336.html) | Main Microcontroller of project | 1 | $5.99 | $5.99 | [Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2350-Pre-Soldered-p-6336.html) |
 | [OLED I2C white display](https://core-electronics.com.au/white-i2c-oled-display-ssd1306.html) | Display the timer (price converted from 7.20 AUD) | 1 | $5.04 | $5.04 | [Core Electronics](https://core-electronics.com.au/white-i2c-oled-display-ssd1306.html) |
-| [Resistors, transistor, Pin Sockets](https://www.digikey.com.au/short/vqthtr2h) | Solder onto Breadboard, required passive components | 1 | $1.52 | $1.52 | [digikey](https://www.digikey.com.au/short/vqthtr2h) |
-| **Parts subtotal** | — | — | — | **$12.55** | — |
+| **Parts subtotal** | — | — | — | **$11.03** | — |
 | **Tax & shipping** | — | — | — | **$4.38** | — |
-| **Total** | — | — | — | **$16.93** | — |
+| **Total** | — | — | — | **$15.41** | — |
 
-$13.07 left of the tier's funding.
+$14.59 left of the tier's funding.
