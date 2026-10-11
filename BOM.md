@@ -13,10 +13,9 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [XIAO RP2350 (pre-soldered)](https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2350-Pre-Soldered-p-6336.html) | Main Microcontroller of project | 1 | $5.99 | $5.99 | [Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2350-Pre-Soldered-p-6336.html) |
-| [LEDDC-3RED (LED),](https://www.digikey.com.au/en/products/detail/lumimax-optoelectronic-technology/LEDDC-3RED/26680587) | LED lights for circuit board | 6 | $0.08 | $0.48 | [Digikey](https://www.digikey.com.au/en/products/detail/lumimax-optoelectronic-technology/LEDDC-3RED/26680587) |
 | [OLED I2C white display](https://core-electronics.com.au/white-i2c-oled-display-ssd1306.html) | Display the timer (price converted from 7.20 AUD) | 1 | $5.03 | $5.03 | [Core Electronics](https://core-electronics.com.au/white-i2c-oled-display-ssd1306.html) |
-| **Parts subtotal** | — | — | — | **$11.50** | — |
+| **Parts subtotal** | — | — | — | **$11.02** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$11.50** | — |
+| **Total** | — | — | — | **$11.02** | — |
 
-$18.50 left of the tier's funding.
+$18.98 left of the tier's funding.
