@@ -2,7 +2,7 @@ Reference,Part,Qty,Description,Vendor,UnitPrice,Totalprice,Link
 U2,XIAO RP2350,1,Microcontroller module,Seeed Studio,$5.90,Part*Qty,https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2350-Pre-Soldered-p-6336.html
 D0 D1 D2 D3 D6 D7,LED 3mm,6,Countdown LEDs,Core Electronics,$0.60,Part*Qty,https://core-electronics.com.au/led-basic-yellow-3mm.html
 R0 R1 R2 R3 R6 R7,330R resistor,6,LED current-limit resistors,Core Electronics,$1.58,Part*Qty,https://core-electronics.com.au/resistor-330-ohm-1-4-watt-pth-20-pack-thick-leads.html
-R9,1k resistor,1,Transistor base resistor,N/A,N/A, - Have one at home
+R9,1k resistor,1,Transistor base resistor,N/A,N/A,N/A,N/A, - Have one at home
 Q1,2N3904 transistor,1,NPN transistor for the buzzer,Core Electronics,$0.30,Part*Qty,https://core-electronics.com.au/npn-transistor-2n3904.html
 SW2,6mm tactile button,1,Pause and reset button,Core Electronics,$0.36,Part*Qty,https://core-electronics.com.au/mini-push-button-switch.html
 BZ1,5V active buzzer,1,Alert buzzer,Core Electronics,$0.27,Part*Qty,https://core-electronics.com.au/active-buzzer-5v.html
