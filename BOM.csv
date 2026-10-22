@@ -1,4 +1,4 @@
-Reference,Part,Qty,Description,Vendor,UnitPrice,Totalprice,Link
+Reference,Part,Qty,Description,Vendor,UnitPrice,Link
 U2,XIAO RP2350,1,Microcontroller module,Seeed Studio,$5.90,https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2350-Pre-Soldered-p-6336.html
 D0 D1 D2 D3 D6 D7,LED 3mm,6,Countdown LEDs,Core Electronics,$0.60,https://core-electronics.com.au/led-basic-yellow-3mm.html
 R0 R1 R2 R3 R6 R7,330R resistor,6,LED current-limit resistors,Core Electronics,$1.58,https://core-electronics.com.au/resistor-330-ohm-1-4-watt-pth-20-pack-thick-leads.html
