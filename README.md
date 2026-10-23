@@ -10,8 +10,9 @@ Here is the final render of my project!!
 * Exam study help
 
 ## Using this repo:
-1. Code is located in Tomato-Tick/Arduino
-2. Gerber Files, images, schematics and pcb are located in Tomato-Tick/PCB
+1. Code is located in ![TomatoTick Front Render](Arduino)
+2. Kicad files including libraries, schematics, pcb etc. are located in ![TomatoTick Front Render](PCB)
+3. Gerbers.zip can be used to directly send PCB to vendors.
 
 ## heres how I made the project :)
 1. Used Kicad and made a simple schematic with my parts (see BOM.csv)
@@ -19,6 +20,18 @@ Here is the final render of my project!!
 3. After the schematic is finished turn into PCB view and simply make a tomato shape on the edge faces layer
 4. Add the traces to each component (use the render image above for reference)
 5. Change the film colour to add the 'red' tomato
+
+## Code - Arduino IDE
+Libraries : #include <Wire.h>
+            #include <Adafruit_GFX.h>
+            #include <Adafruit_SSD1306.h>
+            (Can all be found inside the IDE library 
+void(displayStudytime) -- Displays remaining study time on OLED screen
+void(displayBreaktime) -- Displays remaining study time on OLED
+
+buttonPin -- 1 press = pause, long press = reset {rp.2040 reboot();}
+
+LED functions - builds up (e.g. LED5 lights up, then LED4....)
 
 ## Schematic of Tomato-Tick
 ![TomatoTick Schematic](PCB/TomatoTikSchematic.png)
