@@ -10,7 +10,7 @@ Here is the final render of my project!!
 * Exam study help
 
 ## Using this repo:
-1. Code is located in ![TomatoTick Front Render](Arduino)
+1. Code is located in ![TomatoTick Front Render](https://github.com/manula5454/Tomato-Tick/tree/9d29067109b3ef0d77ee3602ce2958299fba6f19/Arduino)
 2. Kicad files including libraries, schematics, pcb etc. are located in ![TomatoTick Front Render](PCB)
 3. Gerbers.zip can be used to directly send PCB to vendors.
 
