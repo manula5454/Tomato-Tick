@@ -23,18 +23,18 @@ Here is the final render of my project!!
 
 ## Code - Arduino IDE
 Libraries : 
-#include <Wire.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_SSD1306.h>
-(Can all be found inside the IDE library 
+*#include <Wire.h>
+*#include <Adafruit_GFX.h>
+*#include <Adafruit_SSD1306.h>
+*(Can all be found inside the IDE library 
 
 
-void(displayStudytime) -- Displays remaining study time on OLED screen
-void(displayBreaktime) -- Displays remaining study time on OLED
+*void(displayStudytime) -- Displays remaining study time on OLED screen
+*void(displayBreaktime) -- Displays remaining study time on OLED
 
-buttonPin -- 1 press = pause, long press = reset {rp.2040 reboot();}
+*buttonPin -- 1 press = pause, long press = reset {rp.2040 reboot();}
 
-LED functions - builds up (e.g. LED5 lights up, then LED4....)
+*LED functions - builds up (e.g. LED5 lights up, then LED4....)
 
 ## Schematic of Tomato-Tick
 ![TomatoTick Schematic](PCB/TomatoTikSchematic.png)
