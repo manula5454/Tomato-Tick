@@ -1,13 +1,17 @@
 
 # TomatoTick 2D Pomodoro Timer PCB only 
 A PCB in the shape of a Tomato that runs a pomodoro timer of 30 minutes studying and 5 minutes break on repeat.
-here's an AWESOME gif of my project!
+Here is the final render of my project!!
 ![TomatoTick Front Render](PCB/TomatoTickPFP.png)
 ## This project is used to have a physical timer for studying that is a physical object instead of a digital site/app. The TomatoTick is meant to exist only as a PCB for a theatrical aspect and easy build process. The microchip is a XIAO RP2350 and powers the main display of an OLED SSD1306 which repeats a 30 minutes timer and 5 minute break when started. 
 
 * Pomodoro Timer
 * Quick and Easy digital timer build
 * Exam study help
+
+## Using this repo:
+1. Code is located in Tomato-Tick/Arduino
+2. Gerber Files, images, schematics and pcb are located in Tomato-Tick/PCB
 
 ## heres how I made the project :)
 1. Used Kicad and made a simple schematic with my parts (see BOM.csv)
@@ -16,7 +20,11 @@ here's an AWESOME gif of my project!
 4. Add the traces to each component (use the render image above for reference)
 5. Change the film colour to add the 'red' tomato
 
-### Bill of Materials (BOM)
+## Schematic of Tomato-Tick
+![TomatoTick Schematic](PCB/TomatoTikSchematic.png)
+
+
+### Bill of Materials (See BOM.cv)
 
 | Reference | Part | Qty | Description | Vendor | Unit Price | Link |
 | :--- | :--- | :---: | :--- | :--- | :---: | :--- |
