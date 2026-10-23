@@ -22,10 +22,13 @@ Here is the final render of my project!!
 5. Change the film colour to add the 'red' tomato
 
 ## Code - Arduino IDE
-Libraries : #include <Wire.h>
-            #include <Adafruit_GFX.h>
-            #include <Adafruit_SSD1306.h>
-            (Can all be found inside the IDE library 
+Libraries : 
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
+(Can all be found inside the IDE library 
+
+
 void(displayStudytime) -- Displays remaining study time on OLED screen
 void(displayBreaktime) -- Displays remaining study time on OLED
 
