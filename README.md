@@ -59,4 +59,5 @@ LED functions - builds up (e.g. LED5 lights up, then LED4....)
 | U1 | 1x7 pin header | 2 | Microcontroller connector | Core Electronics | $1.26 | https://core-electronics.com.au |
 | OLED1 | White I2C OLED display (SSD1306) | 1 | 0.96in display | Core Electronics | $5.05 | https://core-electronics.com.au |
 |     |  |                                  |  |               Shipping Cost | $4.39 |  |
+|     |  |                                  |  |               Total Cost | $24.01 |  |
 
