@@ -16,7 +16,7 @@ Here is the final render of my project!!
 
 ## heres how I made the project :)
 1. Used Kicad and made a simple schematic with my parts (see BOM.csv)
-2. Download all the Seeed libraries for the XIAO 2040
+2. Download all the Seeed libraries for the XIAO 2350
 3. After the schematic is finished turn into PCB view and simply make a tomato shape on the edge faces layer
 4. Add the traces to each component (use the render image above for reference)
 5. Change the film colour to add the 'red' tomato
