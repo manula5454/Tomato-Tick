@@ -10,17 +10,41 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.63h | 1 |
+| Week 1 | Tier 1 | 8.13h | 1 |
 
 ## Contents
 
-1. [2026-10-09 – Work session](#2026-10-09-work-session)
+1. [2026-10-09 – TomatoTick#1](#2026-10-09-tomatotick1)
 
 ## Design
 
-### 2026-10-09 – Work session
+### 2026-10-09 – TomatoTick#1
 
-**6.63h**
+**8.13h**
+
+TomatoTick#1
+
+Started my first PCB from the schematics page on Kicad. I began by placing all my components down (resistors, LEDs, microcontroller etc.) and started arranging them on the schematics page with the XIAO-RP2350 microcontroller. It wasn't too hard to arrange the components in LED --> Resistor --> Pin. After wiring I found a lot of warnings and errors (first time TBF). I added the crosses to indicate intentional non connects. After the basic errors including output power which was fixed with PWR_FLAG  I still had symbol and footprint problems from the XIAO library with the XIAO RP2350 and the overall software Kicad was failing to recognise its own default symbols and designs. I looked online for a lot of troubleshooting, uninstalled and reinstalled Kicad multiple times and battled with finding symbols and footprints in my folders page. This troubleshooting took me a while to understand and accounts for the 1.5 hours
+
+![Clipped Solder mask](https://halflife.hackclub-assets.com/sessions/eP8CGAI2wXebtYyMKgVtSC7r0m8Quc3O/4fe7bc32b0b4d94a37c650606e44f77cbe441815d459777f9230480da376b0f2.png)
+
+ in addition as I troubleshooted after the time lapse.
+
+Building PCB
+
+I finally got some of the warning to go away on the electrical rules checker but it was still having difficulty finding files and symbols. After a lot of exploring my file explorer I finally fixed it and added an OLED SSD1306 module to my schematic. I found all my footprints online to assign to each component and get the wiring right for the OLED display. After converting my schematic to a PCB I struggled with getting the tomato outline I wanted for Edge.layers in my PCB. I struggled to arrange my LED's and the OLED in an efficient way and ended up using a hexagonal polygon to arrange the LEDs.
+
+Tomat0Ticks Final Look
+
+Instead of the OLED symbol in Kicad I decided to instead use a 1x4 pin socket(female) connector to emulate where the OLED connected without having to physically edit the OLED footprint. After converting schematic to PCB again I arranged the pin socket correctly. I trialled a few ways to make the tomato shape of the PCB and created the PCB shape by using the circle feature and arc feature on Edge.layers. Afterward I had to edit the XIAO - RP2350 footprint as it cut into the contacts. After that I just added a red colour to the silkscreen and Tomat0Tick was born!
+
+![Output source error](https://halflife.hackclub-assets.com/sessions/eP8CGAI2wXebtYyMKgVtSC7r0m8Quc3O/fe06f62c44c481daf6c87aa5f1ba6cafb5b6b2baae0bc531b760db913c535af7.png)
+
+![Main File error that took longest to fix](https://halflife.hackclub-assets.com/sessions/eP8CGAI2wXebtYyMKgVtSC7r0m8Quc3O/38cca8de4d34ed37b1964985e9d34aa9cd4d0804b3df120c35b3047394c80d37.png)
+
+![errorsTomatoTick](https://halflife.hackclub-assets.com/sessions/eP8CGAI2wXebtYyMKgVtSC7r0m8Quc3O/5e2d2a7555af2fee230ed112e09c663a2e0e396699a2c790d88d0555b85eb6f4.png)
+
+![Screenshot 2026-10-09 133242](https://halflife.hackclub-assets.com/sessions/eP8CGAI2wXebtYyMKgVtSC7r0m8Quc3O/4c0f0ba0a401b895c38589555c6eb263c4d163ac76215b42c5e4d008762dbefc.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/05b99960-308a-44f1-9978-f09655ab4098/video.mp4)
 
