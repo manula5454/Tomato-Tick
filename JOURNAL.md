@@ -43,6 +43,10 @@ Instead of the OLED symbol in Kicad I decided to instead use a 1x4 pin socket(fe
 
 ![Clipped Solder mask](https://halflife.hackclub-assets.com/sessions/eP8CGAI2wXebtYyMKgVtSC7r0m8Quc3O/4fe7bc32b0b4d94a37c650606e44f77cbe441815d459777f9230480da376b0f2.png)
 
+Coding
+
+Coding was pretty simple, I used old projects to find where the digits should be displayed on the OLED screen (e.g. display.setCursor(35, 8);). I used displayStudytime() and displayBreaktime() to display the time/countdown. The button on my project, if pressed once pauses: while(digitalRead(buttonPin) == HIGH) { } ) pauses and the project is reset in ( rp2040.reboot();). I'm not sure if the reset will work on the RP2350 and I'd solve that once parts arrive as that is a pure code fix anyway. Finally the LEDs turn on every five minutes in a loop of if statements, for every break its one minute that an LED turns on.
+
 [Timelapse](https://lookout.hackclub.com/api/media/05b99960-308a-44f1-9978-f09655ab4098/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/5d857324-417d-4a9c-9185-a6b8f9f9bb43/video.mp4)
